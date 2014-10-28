@@ -1,0 +1,13 @@
+{
+  "name": "eudsc",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "wow": "~1.0.1",
+    "jquery": "~2.1.1"
+  },
+  "resolutions": {
+    "angular": "1.2.26"
+  }
+}
