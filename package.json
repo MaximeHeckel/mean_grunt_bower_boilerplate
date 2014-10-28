@@ -2,12 +2,13 @@
   "name": "eudsc",
   "main": "server.js",
   "dependencies": {
+    "body-parser": "~1.4.2",
+    "bower": "latest",
     "express": "~4.5.1",
+    "jade": "^1.7.0",
+    "method-override": "~2.0.2",
     "mongoose": "^3.8.15",
-    "request": "^2.40.0",
-    "body-parser" : "~1.4.2",
-	  "method-override" : "~2.0.2",
-    "bower" : "latest"
+    "request": "^2.40.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
